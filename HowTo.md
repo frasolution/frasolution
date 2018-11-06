@@ -1,7 +1,10 @@
 Hello and Welcome to this Repo
 you are invited to look into other peoples code here
+just ask me to join this org via dm on **discord** or **wechat** (qr is at the bottom) or via ***github*** dm
+**(if you just fool around you will be kicked)**
+
 The main goals are
-- to help peple to better their code
+- to help people to better their code
     - please leave helpful suggestion and don't nitpick
 - to help people that can't figure out how to solve a secific problem
     - leaving comments in your code can help people
@@ -22,3 +25,5 @@ Here are some guidliness for submissions
 - if you have a problem feel free to share it with people in the discord (invite was given out) in #java-ist-auch-nur-eine-insel (a link to github or pastebin.com is always better than posting `code` in the *discord* :sweat: )
 
 Happy coding :smile:
+
+![image of wechat invite](https://cdn.discordapp.com/attachments/497767838027743246/509487108516478976/8sIT9KtxuS0qrnI1L_bTpMiEtKvjvGv9l-B_qb7S8S71GCXctoa8JcU918td8BCWJUGSuFUqYOG-Uswftm1AtJ1U3aJWCretAEMz.png)
