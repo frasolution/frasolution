@@ -14,10 +14,12 @@ The main goals are
 
 Here are some guidliness for submissions
 - please stick to this file structure or create poll to change
+```
 Language
     Problem
         Username
             sourcecode (+ markdown optional)
+```
 - please submit only working code or mark in it in sourcecode filename
 - if you have a problem feel free to share it with people in the discord (invite was given out) in #java-ist-auch-nur-eine-insel (a link to github or pastebin.com is always better than posting `code` in the *discord* :sweat: )
 
